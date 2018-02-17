@@ -1,9 +1,10 @@
 ## ACUARIO 
 
-Esta paguina  esta dedicada  a la acuarofilia , tendra la oportunidad de hacer diferentes tutoriales desde cero y podra autocapacitarse de la manera mas sencilla.
-You can use the [editor on GitHub](https://github.com/paramedico58/acuario/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Esta paguina  esta dedicada  a la acuarofilia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Tendra la oportunidad de hacer diferentes tutoriales desde cero y podra autocapacitarse de la manera mas sencilla.
+
 
 ### Markdown
 
