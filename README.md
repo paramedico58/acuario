@@ -1,8 +1,8 @@
 ## ACUARIO 
-
+1.
 Esta paguina  esta dedicada  a la acuarofilia.
 
-
+2.
 Tendra la oportunidad de hacer diferentes tutoriales desde cero y podra autocapacitarse de la manera mas sencilla.
 
 
